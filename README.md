@@ -9,7 +9,7 @@ Third line.
 http://github.github.com/github-flavored-markdown/
 
 > GitHub uses what we're calling "GitHub Flavored Markdown" (GFM) for messages, issues, and comments. 
-
+...
 > GFM treats newlines in paragraph-like content as real line breaks, which is probably what you intended.
 
 ## No wrap
